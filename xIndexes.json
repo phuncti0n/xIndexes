@@ -1,5 +1,5 @@
 {
-  "flexIndex": [
+  "flex": [
     { "name": "xsauce", "sku": "AA3834-101", "weight": 0.06, "size": 10 },
     { "name": "xsauce", "sku": "CD4487-100", "weight": 0.07, "size": 10 },
     { "name": "xsauce", "sku": "AT3057-100", "weight": 0.09, "size": 10 },
@@ -13,7 +13,7 @@
     { "name": "xsauce", "sku": "FB2709-001", "weight": 0.09, "size": 10 },
     { "name": "xsauce", "sku": "HP8739", "weight": 0.09, "size": 10 }
   ],
-  "hyp3Index": [
+  "hyp3": [
     { "name": "xsauce", "sku": "DZ4549-001", "weight": 0.14, "size": 10 },
     { "name": "xsauce", "sku": "CT8532-102", "weight": 0.14, "size": 10 },
     { "name": "xsauce", "sku": "FD2565-100", "weight": 0.12, "size": 10 },
@@ -23,7 +23,7 @@
     { "name": "xsauce", "sku": "FN0344-901", "weight": 0.13, "size": 10 },
     { "name": "xsauce", "sku": "FD7855-001", "weight": 0.11, "size": 10 }
   ],
-  "xciIndex": [
+  "xci": [
     { "name": "xsauce", "sku": "555088-063", "weight": 0.125, "size": 10 },
     { "name": "xsauce", "sku": "DO9392-700", "weight": 0.14, "size": 10 },
     { "name": "xsauce", "sku": "DD1391-400", "weight": 0.15, "size": 10 },
