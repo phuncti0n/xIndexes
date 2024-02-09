@@ -1,38 +1,38 @@
 {
   "flex": [
-    { "name": "xsauce", "sku": "AA3834-101", "weight": 0.06, "size": 10 },
-    { "name": "xsauce", "sku": "CD4487-100", "weight": 0.07, "size": 10 },
-    { "name": "xsauce", "sku": "AT3057-100", "weight": 0.09, "size": 10 },
-    { "name": "xsauce", "sku": "M1300AD", "weight": 0.09, "size": 10 },
-    { "name": "xsauce", "sku": "GY9693", "weight": 0.09, "size": 10 },
-    { "name": "xsauce", "sku": "CU3244-100", "weight": 0.06, "size": 10 },
-    { "name": "xsauce", "sku": "BV0073-400", "weight": 0.09, "size": 10 },
-    { "name": "xsauce", "sku": "M990SB2", "weight": 0.09, "size": 10 },
-    { "name": "xsauce", "sku": "B75571", "weight": 0.09, "size": 10 },
-    { "name": "xsauce", "sku": "CT8480-001", "weight": 0.09, "size": 10 },
-    { "name": "xsauce", "sku": "FB2709-001", "weight": 0.09, "size": 10 },
-    { "name": "xsauce", "sku": "HP8739", "weight": 0.09, "size": 10 }
+    { "name": "flex", "sku": "AA3834-101", "weight": 0.06, "size": 10 },
+    { "name": "flex", "sku": "CD4487-100", "weight": 0.07, "size": 10 },
+    { "name": "flex", "sku": "AT3057-100", "weight": 0.09, "size": 10 },
+    { "name": "flex", "sku": "M1300AD", "weight": 0.09, "size": 10 },
+    { "name": "flex", "sku": "GY9693", "weight": 0.09, "size": 10 },
+    { "name": "flex", "sku": "CU3244-100", "weight": 0.06, "size": 10 },
+    { "name": "flex", "sku": "BV0073-400", "weight": 0.09, "size": 10 },
+    { "name": "flex", "sku": "M990SB2", "weight": 0.09, "size": 10 },
+    { "name": "flex", "sku": "B75571", "weight": 0.09, "size": 10 },
+    { "name": "flex", "sku": "CT8480-001", "weight": 0.09, "size": 10 },
+    { "name": "flex", "sku": "FB2709-001", "weight": 0.09, "size": 10 },
+    { "name": "flex", "sku": "HP8739", "weight": 0.09, "size": 10 }
   ],
   "hyp3": [
-    { "name": "xsauce", "sku": "DZ4549-001", "weight": 0.14, "size": 10 },
-    { "name": "xsauce", "sku": "CT8532-102", "weight": 0.14, "size": 10 },
-    { "name": "xsauce", "sku": "FD2565-100", "weight": 0.12, "size": 10 },
-    { "name": "xsauce", "sku": "DX4976-100", "weight": 0.12, "size": 10 },
-    { "name": "xsauce", "sku": "IG5711", "weight": 0.08, "size": 10 },
-    { "name": "xsauce", "sku": "FN4193-100", "weight": 0.16, "size": 10 },
-    { "name": "xsauce", "sku": "FN0344-901", "weight": 0.13, "size": 10 },
-    { "name": "xsauce", "sku": "FD7855-001", "weight": 0.11, "size": 10 }
+    { "name": "hyp3", "sku": "DZ4549-001", "weight": 0.14, "size": 10 },
+    { "name": "hyp3", "sku": "CT8532-102", "weight": 0.14, "size": 10 },
+    { "name": "hyp3", "sku": "FD2565-100", "weight": 0.12, "size": 10 },
+    { "name": "hyp3", "sku": "DX4976-100", "weight": 0.12, "size": 10 },
+    { "name": "hyp3", "sku": "IG5711", "weight": 0.08, "size": 10 },
+    { "name": "hyp3", "sku": "FN4193-100", "weight": 0.16, "size": 10 },
+    { "name": "hyp3", "sku": "FN0344-901", "weight": 0.13, "size": 10 },
+    { "name": "hyp3", "sku": "FD7855-001", "weight": 0.11, "size": 10 }
   ],
   "xci": [
-    { "name": "xsauce", "sku": "555088-063", "weight": 0.125, "size": 10 },
-    { "name": "xsauce", "sku": "DO9392-700", "weight": 0.14, "size": 10 },
-    { "name": "xsauce", "sku": "DD1391-400", "weight": 0.15, "size": 10 },
-    { "name": "xsauce", "sku": "GW3355", "weight": 0.075, "size": 10 },
-    { "name": "xsauce", "sku": "DC9533-800", "weight": 0.011, "size": 10 },
-    { "name": "xsauce", "sku": "BB550WT1", "weight": 0.18, "size": 10 },
-    { "name": "xsauce", "sku": "GX2487", "weight": 0.08, "size": 10 },
-    { "name": "xsauce", "sku": "GW1229", "weight": 0.185, "size": 10 },
-    { "name": "xsauce", "sku": "DH9792-100", "weight": 0.017, "size": 10 },
-    { "name": "xsauce", "sku": "DH7863-100", "weight": 0.037, "size": 10 }
+    { "name": "xci", "sku": "555088-063", "weight": 0.125, "size": 10 },
+    { "name": "xci", "sku": "DO9392-700", "weight": 0.14, "size": 10 },
+    { "name": "xci", "sku": "DD1391-400", "weight": 0.15, "size": 10 },
+    { "name": "xci", "sku": "GW3355", "weight": 0.075, "size": 10 },
+    { "name": "xci", "sku": "DC9533-800", "weight": 0.011, "size": 10 },
+    { "name": "xci", "sku": "BB550WT1", "weight": 0.18, "size": 10 },
+    { "name": "xci", "sku": "GX2487", "weight": 0.08, "size": 10 },
+    { "name": "xci", "sku": "GW1229", "weight": 0.185, "size": 10 },
+    { "name": "xci", "sku": "DH9792-100", "weight": 0.017, "size": 10 },
+    { "name": "xci", "sku": "DH7863-100", "weight": 0.037, "size": 10 }
   ]
 }
